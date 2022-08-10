@@ -16,8 +16,7 @@ Projeto criado na plataforma de ensino da Digital Innovation One Inc. junto com 
 
 Imagens do jogo.
 
-![plot](./img/Tela%20inicial%20do%20jogo.png)
-![plot](./img/Imagem%20do%20jogo.png)
+![Tela inicial](https://github.com/paulomatozinho/Game-Resgate-com-JavaScript/blob/main/imgs/Tela%20inicial%20do%20jogo.png)
 
 ### Libraries used
 
